@@ -1,0 +1,12 @@
+mkdir learngit //创建文件夹
+cd             //版本库定位在该文件夹
+pwd            //显示文件夹目前的位置
+git init       // 把这个目录变成Git可以管理的工具
+git add        //把文件添加到仓库
+git commit  -m //提交的说明
+git status     //掌握工作区的状态
+git diff       //查看修改内容
+git reset --hard commit_id //版本穿梭
+git log        //查看提交历史
+git reflog     //查看命令历史
+
